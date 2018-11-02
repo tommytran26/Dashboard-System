@@ -1,0 +1,102 @@
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\roslyn\csc.exe
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\roslyn\vbc.exe
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\roslyn\VBCSCompiler.exe
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\DashboardSystem.dll.config
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\DashboardSystem.dll
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\DashboardSystem.pdb
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.csprojResolveAssemblyReference.cache
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.dll
+c:\users\tommy tran\documents\visual studio 2015\Projects\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.pdb
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\roslyn\csc.exe
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\roslyn\vbc.exe
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\DashboardSystem.dll.config
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\DashboardSystem.dll
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\DashboardSystem.pdb
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.csprojResolveAssemblyReference.cache
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.dll
+C:\Users\Tommy Tran\Documents\Visual Studio 2015\Projects\Capstone\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.pdb
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\roslyn\csc.exe
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\roslyn\vbc.exe
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\DashboardSystem.dll.config
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\DashboardSystem.dll
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\DashboardSystem.pdb
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.csprojResolveAssemblyReference.cache
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.dll
+C:\Users\bp6033\Downloads\DashboardSystem (2)\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.pdb
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\csc.exe
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\vbc.exe
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\DashboardSystem.dll.config
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\DashboardSystem.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\DashboardSystem.pdb
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\DashboardSystem\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.pdb
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\csc.exe
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\vbc.exe
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\DashboardSystem.dll.config
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\DashboardSystem.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\DashboardSystem.pdb
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.dll
+C:\Users\Nick\Documents\Fall 2018\Capstone\UI Stuff\DashboardSystem\DashboardSystem\DashboardSystem\obj\Debug\DashboardSystem.pdb
