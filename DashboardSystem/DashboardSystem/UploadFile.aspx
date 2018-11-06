@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/NavBar.Master" AutoEventWireup="true" CodeBehind="UploadFile.aspx.cs" Inherits="DashboardSystem.UploadFile" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Admin.Master" AutoEventWireup="true" CodeBehind="UploadFile.aspx.cs" Inherits="DashboardSystem.UploadFile" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <link href="uploadStyle.css" rel="stylesheet">

@@ -80,6 +80,7 @@
     <Content Include="images\SectionEnrollment.png" />
     <Content Include="packages.config" />
     <Content Include="NavBar.Master" />
+    <Content Include="Admin.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -100,6 +101,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Admin.Master.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin.Master.designer.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+    </Compile>
     <Compile Include="AdminView.aspx.cs">
       <DependentUpon>AdminView.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
