@@ -16,17 +16,21 @@
         }
 
         .page {
-            padding-top: 2%;
+            padding-top: 0;
         }
         .addbutton{
-            margin-top: 2%;
-            margin-bottom: 2%;
+            margin-top: 1%;
+            margin-bottom: 1%;
+        }
+        .navbar{
+            margin-bottom: 0;
         }
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="container-fluid page">
         <div class="row">
+            <h2 class="text-center">Add Users</h2>
             <div class="col-lg-3 col-md-offset-3">
                 <asp:Label ID="lblID" runat="server" Text="TUID"></asp:Label> <asp:TextBox ID="txtID" runat="server" CssClass="pull-right"></asp:TextBox>
                 <br />
@@ -65,6 +69,7 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-offset-4 text-center">
+                <h2>Change User Roles</h2>
                 <asp:GridView ID="gvGrantPrivileges" runat="server" AutoGenerateColumns="false" CssClass="table-bordered table-responsive table">
                     <Columns>
                         <asp:BoundField DataField="User" HeaderText="User" />

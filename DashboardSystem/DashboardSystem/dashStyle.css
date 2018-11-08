@@ -1,14 +1,14 @@
 ﻿.filters {
     position: absolute;
-    right: 0;
-    top: 52px;
+    right: 0.1%;
+    top: 7.15%;
     height: 89.5%;
-    
+    width: 16.7%;
     
 }
 .sectionEnroll {
     position: absolute;
-    left: 2px;
+    left: 0.1%;
     top: 68%;
     width: 83%;
     height: 26.85%;
@@ -25,20 +25,19 @@
 }
 .finalGrade {
     position: absolute;
-    left: 2px;
+    left: 0.1%;
     top: 37.5%;
     width: 41.45%;
     height: 30.35%;
     border: black solid 3px;
 }
-.liftGraph{
+.liftGraph {
     position: absolute;
-    left: 2px;
-    top: 52px;
+    left: 0.1%;
+    top: 7.15%;
     width: 83%;
     height: 30%;
     border: black solid 3px;
-
 }
 #footer {
     background-color: #9D2235;

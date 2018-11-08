@@ -33,7 +33,9 @@ var myAverageFinalGradeByInstructor = new Chart(ctxAverageFinalGradeByInstructor
         },
         title: {
             display: true,
-            text: 'Average Final Grade By Instructor For Course XXX'
+            text: 'Average Final Grade By Instructor For Course XXX',
+            fontSize: 15,
+            fontColor: '#000000'
         },
         scales: {
             yAxes: [{
@@ -85,7 +87,9 @@ var myGradeLiftByProfessor = new Chart(ctxGradeLiftByProfessor, {
         },
         title: {
             display: true,
-            text: 'Grade Lift By Instructor For Course XXX'
+            text: 'Grade Lift By Instructor For Course XXX',
+            fontSize: 15,
+            fontColor: '#000000'
         },
         tooltips: {
             mode: 'index',
@@ -135,7 +139,9 @@ var myEnrollments = new Chart(ctxEnrollments, {
         },
         title: {
             display: true,
-            text: 'Course Enrollments By Term'
+            text: 'Course Enrollments By Term',
+            fontSize: 15,
+            fontColor: '#000000'
         },
         scales: {
             yAxes: [{
@@ -185,7 +191,9 @@ var myStudentsTaughtByInstructor = Chart.Scatter(ctxStudentsTaughtByInstructor, 
         },
         title: {
             display: true,
-            text: 'Section Enrollments by Instructor for Course XXX'
+            text: 'Section Enrollments by Instructor for Course XXX',
+            fontSize: 15,
+            fontColor: '#000000'
         },
         maintainAspectRatio: false
     }
